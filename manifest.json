@@ -1,0 +1,15 @@
+{
+  "name": "GodLin's Blog 林的部落阁",
+  "short_name": "Blog",
+  "icons": [
+    {
+      "src": "/images/icons/logo.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}
